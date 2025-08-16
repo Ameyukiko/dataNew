@@ -11,7 +11,30 @@
       "status": "Fake News",
       "imageLink": "https://i.imghippo.com/files/nQC9333Nwc.png",
       "votesFake": 150,
-      "votesNotFake": 10
+      "votesNotFake": 10,
+      "comments": [
+        {
+          "id": 1,
+          "user": "John Doe",
+          "vote": "Fake",
+          "comment": "No way elephants can fly.",
+          "imageUrl": ""
+        },
+        {
+          "id": 2,
+          "user": "Sara Kim",
+          "vote": "Not Fake",
+          "comment": "I saw something in the sky last night, maybe it was true.",
+          "imageUrl": ""
+        },
+        {
+          "id": 3,
+          "user": "Leo Martinez",
+          "vote": "Fake",
+          "comment": "This has to be CGI.",
+          "imageUrl": "https://example.com/images/elephant-cgi.jpg"
+        }
+      ]
     },
     {
       "id": 2,
@@ -24,7 +47,30 @@
       "status": "Not-Fake News",
       "imageLink": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-1488688505.jpg?q=w_1160,c_fill/f_webp",
       "votesFake": 2,
-      "votesNotFake": 250
+      "votesNotFake": 250,
+      "comments": [
+        {
+          "id": 1,
+          "user": "Emily White",
+          "vote": "Not Fake",
+          "comment": "Technically true since cacao is a plant.",
+          "imageUrl": ""
+        },
+        {
+          "id": 2,
+          "user": "David Chen",
+          "vote": "Fake",
+          "comment": "This feels misleading—chocolate candy is not a vegetable.",
+          "imageUrl": ""
+        },
+        {
+          "id": 3,
+          "user": "Anna Lee",
+          "vote": "Not Fake",
+          "comment": "Funny but valid point.",
+          "imageUrl": "https://example.com/images/choco.jpg"
+        }
+      ]
     },
     {
       "id": 3,
@@ -37,7 +83,23 @@
       "status": "Fake News",
       "imageLink": "https://lightsinthedark.com/wp-content/uploads/2015/11/green-moon.jpg",
       "votesFake": 300,
-      "votesNotFake": 5
+      "votesNotFake": 5,
+      "comments": [
+        {
+          "id": 1,
+          "user": "Peter King",
+          "vote": "Fake",
+          "comment": "Classic old myth, not real science.",
+          "imageUrl": ""
+        },
+        {
+          "id": 2,
+          "user": "Sara Kim",
+          "vote": "Fake",
+          "comment": "NASA photos prove otherwise.",
+          "imageUrl": "https://example.com/images/moon.jpg"
+        }
+      ]
     },
     {
       "id": 4,
@@ -50,7 +112,23 @@
       "status": "Not-Fake News",
       "imageLink": "https://s.hdnux.com/photos/01/14/67/13/20148988/10/960x0.webp",
       "votesFake": 10,
-      "votesNotFake": 80
+      "votesNotFake": 80,
+      "comments": [
+        {
+          "id": 1,
+          "user": "Mark Johnson",
+          "vote": "Not Fake",
+          "comment": "Cute! I'd vote for Mittens.",
+          "imageUrl": ""
+        },
+        {
+          "id": 2,
+          "user": "Alice Wong",
+          "vote": "Fake",
+          "comment": "Funny story but unlikely.",
+          "imageUrl": ""
+        }
+      ]
     },
     {
       "id": 5,
@@ -63,7 +141,23 @@
       "status": "Fake News",
       "imageLink": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Liberty_Island_photo_Don_Ramey_Logan.jpg",
       "votesFake": 95,
-      "votesNotFake": 15
+      "votesNotFake": 15,
+      "comments": [
+        {
+          "id": 1,
+          "user": "Chris Miller",
+          "vote": "Fake",
+          "comment": "Impossible to move such a big statue overnight.",
+          "imageUrl": ""
+        },
+        {
+          "id": 2,
+          "user": "Jane Doe",
+          "vote": "Fake",
+          "comment": "Checked the webcam, it’s still there.",
+          "imageUrl": "https://example.com/images/liberty.jpg"
+        }
+      ]
     },
     {
       "id": 6,
@@ -76,7 +170,23 @@
       "status": "Fake News",
       "imageLink": "https://www.treehugger.com/thmb/CuTzoTtXv9ThPkwdSxHREceRFU8=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/scenic-view-of-silhouette-mountains-against-sky-during-sunset-1325186919-166516c836d644dd953f34a3b7fe9c7f.jpg",
       "votesFake": 210,
-      "votesNotFake": 30
+      "votesNotFake": 30,
+      "comments": [
+        {
+          "id": 1,
+          "user": "Olivia Green",
+          "vote": "Not Fake",
+          "comment": "I’m excited to see the sky tomorrow!",
+          "imageUrl": ""
+        },
+        {
+          "id": 2,
+          "user": "Anna Lee",
+          "vote": "Fake",
+          "comment": "Sounds like clickbait science.",
+          "imageUrl": ""
+        }
+      ]
     },
     {
       "id": 7,
@@ -89,7 +199,23 @@
       "status": "Not-Fake News",
       "imageLink": "https://static.independent.co.uk/s3fs-public/thumbnails/image/2016/08/30/14/mridogs.jpg?quality=75&width=1250&crop=3%3A2%2Csmart&auto=webp",
       "votesFake": 5,
-      "votesNotFake": 180
+      "votesNotFake": 180,
+      "comments": [
+        {
+          "id": 1,
+          "user": "David Chen",
+          "vote": "Not Fake",
+          "comment": "If true, dogs will be our new friends in politics.",
+          "imageUrl": ""
+        },
+        {
+          "id": 2,
+          "user": "Emily White",
+          "vote": "Fake",
+          "comment": "I want to see proof of the device working.",
+          "imageUrl": "https://example.com/images/dog-device.jpg"
+        }
+      ]
     },
     {
       "id": 8,
@@ -102,7 +228,23 @@
       "status": "Fake News",
       "imageLink": "https://images.saymedia-content.com/.image/c_limit%2Ccs_srgb%2Cq_auto:eco%2Cw_673/MjEwNzAwNTIxMzMyMzUyODQ5/the-earth-cube-planet.webp",
       "votesFake": 190,
-      "votesNotFake": 25
+      "votesNotFake": 25,
+      "comments": [
+        {
+          "id": 1,
+          "user": "Leo Martinez",
+          "vote": "Fake",
+          "comment": "Physics makes this impossible.",
+          "imageUrl": ""
+        },
+        {
+          "id": 2,
+          "user": "Alice Wong",
+          "vote": "Fake",
+          "comment": "Obvious satire.",
+          "imageUrl": ""
+        }
+      ]
     },
     {
       "id": 9,
@@ -115,7 +257,23 @@
       "status": "Fake News",
       "imageLink": "https://aebc975c.delivery.rocketcdn.me/wp-content/uploads/2024/09/062_SO200124_Antarctica_Ross-Sea_Foyn-Island%C2%A9PONANT_Photo-Ambassador_Cindy-Miller-Hopkins-3-2.jpg.webp",
       "votesFake": 120,
-      "votesNotFake": 20
+      "votesNotFake": 20,
+      "comments": [
+        {
+          "id": 1,
+          "user": "Peter King",
+          "vote": "Fake",
+          "comment": "Countries can’t sell continents.",
+          "imageUrl": ""
+        },
+        {
+          "id": 2,
+          "user": "Sara Kim",
+          "vote": "Fake",
+          "comment": "Clearly fake news.",
+          "imageUrl": "https://example.com/images/antarctica.jpg"
+        }
+      ]
     },
     {
       "id": 10,
@@ -128,7 +286,23 @@
       "status": "Not-Fake News",
       "imageLink": "https://www.verywellmind.com/thmb/VWsMCGn5ffLNC4OtNZd7DvuQXSs=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-153251304-58d2d5085f9b584683e7ce29.jpg",
       "votesFake": 5,
-      "votesNotFake": 160
+      "votesNotFake": 160,
+      "comments": [
+        {
+          "id": 1,
+          "user": "Mark Johnson",
+          "vote": "Not Fake",
+          "comment": "I wish this existed! Would save years of study.",
+          "imageUrl": ""
+        },
+        {
+          "id": 2,
+          "user": "Jane Doe",
+          "vote": "Fake",
+          "comment": "Too good to be true.",
+          "imageUrl": ""
+        }
+      ]
     }
   ]
 }
